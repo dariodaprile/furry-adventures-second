@@ -4,6 +4,7 @@
 name = ARGV.first || "World!"
 puts "Hello #{name}!"
 puts "How are you?"
+puts "I'm good"
 puts "This is more text"
 
 puts "Hello Charlotte"
